@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00.BasicSerialImplementatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SimpleActionBlockShowingProducerConsumer", "02.SimpleActionBlockShowingProducerConsumer\02.SimpleActionBlockShowingProducerConsumer.csproj", "{D9D775C4-0EA4-46D4-BE68-B7BFC93F4FA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MaxDegreesOfParallelismAsAThrottle", "03.MaxDegreesOfParallelismAsAThrottle\03.MaxDegreesOfParallelismAsAThrottle.csproj", "{92D4B9A6-C691-4FEE-8FD2-9B864541115D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D9D775C4-0EA4-46D4-BE68-B7BFC93F4FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9D775C4-0EA4-46D4-BE68-B7BFC93F4FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9D775C4-0EA4-46D4-BE68-B7BFC93F4FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92D4B9A6-C691-4FEE-8FD2-9B864541115D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D4B9A6-C691-4FEE-8FD2-9B864541115D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D4B9A6-C691-4FEE-8FD2-9B864541115D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D4B9A6-C691-4FEE-8FD2-9B864541115D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
